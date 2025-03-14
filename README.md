@@ -1,4 +1,4 @@
-# 英语打字练习
+# 英语打字练习 https://gotoworldlly.github.io/click/
 
 一个现代化的英语打字练习网站，帮助用户提升英语打字速度和准确性。
 
