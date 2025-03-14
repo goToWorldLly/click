@@ -12,6 +12,6 @@ but learning to dance in the rain.`,
 而是学会在雨中起舞。`
 };
 
-export default function Home() {
+export default function Page() {
   redirect('/home');
 }
